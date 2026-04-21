@@ -1,0 +1,1 @@
+# pennypress-assets
